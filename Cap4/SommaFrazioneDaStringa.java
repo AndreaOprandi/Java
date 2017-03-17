@@ -1,7 +1,4 @@
 package Cap4;
-/*
- *  Esercizio pagina 153 numero 4.17
- */
 
 import prog.io.ConsoleInputManager;
 import prog.io.ConsoleOutputManager;
