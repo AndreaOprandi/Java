@@ -3,7 +3,15 @@ import java.math.*;
 import prog.io.ConsoleInputManager;
 import prog.io.ConsoleOutputManager;
 
-
+/*
+ *	Il testo dell'esercizio è stato modificato in questa risoluzione, l'input è 
+ *      in formato Stringa: +ax+bx+c
+ *	La risoluzione corretta ipoteticamente è: Prendere in input i tre coefficienti  
+ *	a, b, c sotto forma di double, calcolare il Delta e poi le soluzione se 
+ *	positivo, la "soluzione" se uguale a 0(in realta si ricorda che sono 2 coincidenti) 
+ *	e nessuna soluzione se il Delta risulta negativo.
+ *
+ */
 public class E4_7 {
 	public static void main(String[] args) {
 		ConsoleOutputManager out = new ConsoleOutputManager();
